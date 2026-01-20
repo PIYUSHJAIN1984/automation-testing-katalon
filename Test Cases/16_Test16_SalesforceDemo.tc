@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16_Test16_SalesforceDemo</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a95b667-3f22-4661-9573-ad7d15f2bff7</testCaseGuid>
+</TestCaseEntity>
