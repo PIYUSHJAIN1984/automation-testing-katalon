@@ -19,25 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('https://trailhead.salesforce.com/en/trailblazercommunity')
+WebUI.maximizeWindow()
 
-WebUI.openBrowser('')
+WebUI.mouseOver(findTestObject('Object Repository/KB Tutorials/Page_MouseHover_SalesForce/Page_Display data on mouse hover  Salesforce Trailblazer Community/span_Connect-ity-d31-eb3'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/a_btn-make-appointment'))
-
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Username'), 
-    'John Doe')
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Password'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/button_btn-login'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/i_fa fa-bars'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/a_Logout'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('KB Tutorials/Page_MouseHover_SalesForce/Page_Display data on mouse hover  Salesforce Trailblazer Community/span_Activity Feeds-d31-b5b-640'))
 

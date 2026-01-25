@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>24_SplitString</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4474237b-52f6-4bd1-8a26-56c128881234</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e3bae73-4808-4555-8031-224854c2a52d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99ae3d46-a895-4712-9094-42a2e719338f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hello World'</defaultValue>
+      <description></description>
+      <id>4e3bae73-4808-4555-8031-224854c2a52d</id>
+      <masked>false</masked>
+      <name>str</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello|World'</defaultValue>
+      <description></description>
+      <id>99ae3d46-a895-4712-9094-42a2e719338f</id>
+      <masked>false</masked>
+      <name>str1</name>
+   </variable>
+</TestCaseEntity>

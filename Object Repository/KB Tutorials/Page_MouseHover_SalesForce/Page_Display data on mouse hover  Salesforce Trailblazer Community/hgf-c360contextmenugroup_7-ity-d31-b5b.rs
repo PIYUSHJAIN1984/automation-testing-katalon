@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hgf-c360contextmenugroup_7-ity-d31-b5b</name>
+   <tag></tag>
+   <elementGuidId>e540ae02-0823-48f1-87e4-b15820b05b78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@opened = 'true']//*[@slot = 'content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[opened=&quot;true&quot;] [slot=&quot;content&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\37 &quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>hgf-c360contextmenugroup</value>
+      <webElementGuid>caf0044b-3252-4c6e-8b62-20978ae7c544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>8339203f-e0c4-4633-affb-af39f7607692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>25698b42-5daf-4cc6-af92-95edf207e305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1c3954de7da8a7f3602b47d6e21f6cb0</value>
+      <webElementGuid>be0a6bd2-1e18-4b25-8614-cbd7ccd4fcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@opened = 'true']//*[@slot = 'content']</value>
+      <webElementGuid>992435d7-b64a-4a21-9c06-599ccfb91cfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KB Tutorials/Page_MouseHover_SalesForce/Page_Display data on mouse hover  Salesforce Trailblazer Community/hgf-c360contextnav_contextnav-mmunity-d31</value>
+      <webElementGuid>a25420fb-6e37-4e90-923c-9d72a92a7f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>565b08f3-ce5d-406b-bdca-771214d2f3b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@opened = 'true']//*[@slot = 'content']</value>
+      <webElementGuid>4d0c933f-003c-4ab9-9e86-3c695b9a7fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//hgf-c360contextmenugroup[@id = '7']</value>
+      <webElementGuid>d055a49e-d33b-4d79-b25e-7ebcd59035eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

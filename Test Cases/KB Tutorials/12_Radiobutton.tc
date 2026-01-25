@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12_Radiobutton</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3cdee45-4f50-4f95-bafb-85fa2008235f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed2694bb-d568-4072-aef7-244c95fdb054</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62a56458-11b1-404c-85e8-97ea104228f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>ed2694bb-d568-4072-aef7-244c95fdb054</id>
+      <masked>false</masked>
+      <name>checked</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>62a56458-11b1-404c-85e8-97ea104228f1</id>
+      <masked>false</masked>
+      <name>unchecked</name>
+   </variable>
+</TestCaseEntity>

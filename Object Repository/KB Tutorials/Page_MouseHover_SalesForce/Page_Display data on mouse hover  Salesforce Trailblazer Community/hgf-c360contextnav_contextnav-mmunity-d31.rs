@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hgf-c360contextnav_contextnav-mmunity-d31</name>
+   <tag></tag>
+   <elementGuidId>da217780-a746-419e-b41d-72752d67c77f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'contextnav']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contextnav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#contextnav</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>hgf-c360contextnav</value>
+      <webElementGuid>451fbdea-2dd7-4c94-a90b-c561e281a330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>contextnav</value>
+      <webElementGuid>5d2ef723-e8bc-4238-b595-3b138c3e9922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3e36751a18aad4f2b74b5dfa48e39d73</value>
+      <webElementGuid>57fd58be-14a0-440e-b33a-485618f28094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'contextnav']</value>
+      <webElementGuid>509586d6-cbf6-4366-9cf1-e723e765a852</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'contextnav']</value>
+      <webElementGuid>4d443026-92e8-4aee-982a-e6d4cf96fdfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//hgf-c360contextnav[@id = 'contextnav']</value>
+      <webElementGuid>a185ab11-f389-4ee2-8de1-8d1cdc911f5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

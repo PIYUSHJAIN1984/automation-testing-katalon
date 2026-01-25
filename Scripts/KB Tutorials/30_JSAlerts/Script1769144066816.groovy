@@ -19,25 +19,33 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('https://the-internet.herokuapp.com/javascript_alerts')
 
-WebUI.openBrowser('')
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/a_btn-make-appointment'))
+WebUI.click(findTestObject('KB Tutorials/Page_The Internet/button_Click for JS Alert'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Username'), 
-    'John Doe')
+WebUI.waitForAlert(10)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Password'))
+WebUI.acceptAlert()
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/button_btn-login'))
+WebUI.click(findTestObject('KB Tutorials/Page_The Internet/button_Click for JS Confirm'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/i_fa fa-bars'))
+WebUI.waitForAlert(10)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/a_Logout'))
+println(WebUI.getAlertText())
 
-WebUI.closeBrowser()
+WebUI.dismissAlert()
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('KB Tutorials/Page_The Internet/button_Click for JS Prompt'))
+
+WebUI.waitForAlert(10)
+
+WebUI.setAlertText('testone')
+
+WebUI.acceptAlert()
 

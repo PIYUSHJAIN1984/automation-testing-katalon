@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>28_GetText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a232a8f-e3ac-4145-919f-0c10b12a8780</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6101ae8b-6418-4f69-b961-2f73d366f624</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6101ae8b-6418-4f69-b961-2f73d366f624</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+</TestCaseEntity>

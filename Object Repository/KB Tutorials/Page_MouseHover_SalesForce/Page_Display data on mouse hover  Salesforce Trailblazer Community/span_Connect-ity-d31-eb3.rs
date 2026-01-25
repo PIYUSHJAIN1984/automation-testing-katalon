@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Connect-ity-d31-eb3</name>
+   <tag></tag>
+   <elementGuidId>ffe8438a-e916-47c7-bbe6-004e5df60f0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@opened = 'true']//*[@slot = 'start']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[opened=&quot;true&quot;] [slot=&quot;start&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Connect&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5364d35e-4195-4663-b1a5-9568e3e188fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-item-label--cl1</value>
+      <webElementGuid>31bd2566-5662-4168-bcf8-11d9aed7a22f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>start</value>
+      <webElementGuid>20c1f304-8977-4d2b-93af-521136841ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Connect</value>
+      <webElementGuid>80f5770f-a7e0-405c-a06d-12bf86f39b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c1eb78e5f139ea00664ee9a1ae015cc4</value>
+      <webElementGuid>4965c35e-94e5-4ef3-b52c-391df63e8fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@opened = 'true']//*[@slot = 'start']</value>
+      <webElementGuid>1f82f281-cff0-48a5-975b-d57de218fd4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KB Tutorials/Page_MouseHover_SalesForce/Page_Display data on mouse hover  Salesforce Trailblazer Community/hgf-c360contextnav_contextnav-mmunity-d31</value>
+      <webElementGuid>c6e3c2e3-5cdf-4d64-ae14-96c81c100343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>12bc5cca-8a21-4445-a1c7-f7deaa56b106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@opened = 'true']//*[@slot = 'start']</value>
+      <webElementGuid>84ad4ce1-4524-420f-8010-035e2ec20306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Connect' or . = 'Connect')]</value>
+      <webElementGuid>22463077-c1fc-450f-b44d-316ab7e02138</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

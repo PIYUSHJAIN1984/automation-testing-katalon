@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-formatted-text_testone</name>
+   <tag></tag>
+   <elementGuidId>0da8600f-d14a-440a-beb6-5ad6f6d07ee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-formatted-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-formatted-text[@slot='primaryField']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Account testone&quot;i] >> lightning-formatted-text</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>4a418625-9700-4358-92e0-1a8f9006f80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>primaryField</value>
+      <webElementGuid>478e6f92-3792-4c78-8918-d791681efac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testone</value>
+      <webElementGuid>e048fcc7-0b72-4c63-9f14-57f0206e060e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/div[@class=&quot;recordHomeFlexipage2&quot;]/one-record-home-flexipage2[1]/forcegenerated-flexipage_account_record_page_account__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-three-col-header-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-col slds-size_1-of-1 row region-header&quot;]/slot[1]/flexipage-component2[1]/slot[1]/records-lwc-highlights-panel[1]/records-lwc-record-layout[1]/forcegenerated-highlightspanel_account___012000000000000aaa___compact___view___recordlayout2[@class=&quot;forcegenerated-record-layout2&quot;]/records-highlights2[1]/div[@class=&quot;highlights slds-clearfix slds-page-header slds-page-header_record-home&quot;]/div[@class=&quot;slds-grid primaryFieldRow&quot;]/div[@class=&quot;slds-grid slds-col slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-media__body&quot;]/h1[1]/slot[@class=&quot;slds-page-header__title slds-m-right--small slds-align-middle slds-line-clamp clip-text-slds-plus&quot;]/lightning-formatted-text[1]</value>
+      <webElementGuid>fd54fbfd-2bd4-407e-9404-4825a1651c0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-flexipage_account_record_page_account__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-three-col-header-template-desktop2/div/div/slot/flexipage-component2/slot/records-lwc-highlights-panel/records-lwc-record-layout/forcegenerated-highlightspanel_account___012000000000000aaa___compact___view___recordlayout2/records-highlights2/div/div/div/div[2]/h1/slot/lightning-formatted-text</value>
+      <webElementGuid>67215bc3-b546-4215-b2d2-b1bb5338cd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>9af467ae-7aa2-4083-b365-758e27d9eb61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>6f18cd51-b8c4-4c38-9ffc-d516053cb840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Account Hierarchy'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>37f0dedb-fb81-4645-babd-77bce0d22201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Contact'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>241d96c3-38ab-4f52-9b06-16f13c0af04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text</value>
+      <webElementGuid>e2c11f78-63a1-41d7-b6cd-157a22da7706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'testone' or . = 'testone')]</value>
+      <webElementGuid>25106149-643c-465f-9d68-3f35b695c5db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

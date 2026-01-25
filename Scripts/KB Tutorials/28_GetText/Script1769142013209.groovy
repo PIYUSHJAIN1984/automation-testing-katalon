@@ -19,25 +19,14 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('https://www.kstutorials.com/')
 
-WebUI.openBrowser('')
+data1 = WebUI.getText(findTestObject('KB Tutorials/Page_Karan Shah Tutorials/h2_We believe in innovative, engaging and e_3e7583'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/a_btn-make-appointment'))
+println(data1)
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Username'), 
-    'John Doe')
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Password'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service_1/input_Password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/button_btn-login'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/i_fa fa-bars'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service_1/a_Logout'))
+WebUI.verifyElementText(findTestObject('Object Repository/KB Tutorials/Page_Karan Shah Tutorials/h2_We believe in innovative, engaging and e_3e7583'), 
+    'We believe in innovative, engaging and effective learning and try to bring out best in our students')
 
 WebUI.closeBrowser()
 
